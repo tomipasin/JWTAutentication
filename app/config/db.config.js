@@ -4,4 +4,3 @@ module.exports = {
     DB: "PROJETOS"
   };
 
-//module.exports = {'mongodb+srv://tomipasin:tomipasinrocha@mflix.nopvf.mongodb.net/PROJETOS?retryWrites=true&w=majority'}
